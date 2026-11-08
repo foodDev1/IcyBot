@@ -3,8 +3,12 @@
 }
 
 body {
-	background-color: #fff;
+	background-color: #000f97;
 	padding-top: 50px;
+}
+
+h1 {
+	color: #fff;
 }
 
 main {
@@ -34,6 +38,10 @@ header menu {
 	padding: 0 20px;
 	height: 100%;
 	align-items: center;
+}
+
+header nav {
+	height: 100%;
 }
 
 header a {
@@ -67,7 +75,7 @@ header a:hover {
 	display: flex;
 	flex-direction: column;
 	justify-content: space-evenly;
-	background-color: rgb(169, 252, 255);
+	background-color: #fff;
 	border: 5px solid black;
 	padding: 50px;
 }
