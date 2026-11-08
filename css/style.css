@@ -104,3 +104,12 @@ header a:hover {
 .icy-image {
 	image-rendering: pixelated;
 }
+
+body > video {
+	width: 80vw;
+	max-width: 1920px;
+	height: auto;
+	display: block;
+	margin: 30px auto;
+	border: 5px solid black;
+}
