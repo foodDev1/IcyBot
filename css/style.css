@@ -11,6 +11,10 @@ h1 {
 	color: #fff;
 }
 
+footer {
+	color: #fff;
+}
+
 main {
 	display: flex;
 	background-image: url("../img/BlueFade.png");
